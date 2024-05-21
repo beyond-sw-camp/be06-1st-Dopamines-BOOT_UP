@@ -8,9 +8,9 @@
 
 -->
 
-<div align="center">
-  <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/967d568e-a721-4ede-bf3f-582b36888320"  style="zoom:76%;" align="center"/>
-</div>
+![bootup](https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/125132754/63bb8c42-2a83-42cb-b037-6d42a7d87404)
+
+
 
 
 <!--
@@ -36,62 +36,12 @@ BOOT_UP 시스템은 한화 시스템 BEYOND SW캠프를 수강하는 학생들�
 
 
 ## 📚 기술 스택
-
-
-### Front-end Developing
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=svelte&logoColor=white">
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white">
-
-<br>
-
-### Publishing
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Sass-CC6699?&style=flat&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/p5%20js-ED225D?style=flat&logo=p5dotjs&logoColor=white">
-
-<br>
-
-### UI/UX
-<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=sketch&logoColor=white">
-
-<br>
+### OS
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> 
 
 ### Database
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-<!-- <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"> -->
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
+<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"/>
 
-<br>
-
-### DevOps </b>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
-
-<br>
-
-### Collaboration tool
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat&logo=jirasoftware&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat&logo=atlassian&logoColor=white"/>
-
-<br>
-
-### Design
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white">
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black">
-<img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat&logo=Adobe%20InDesign&logoColor=white">
 
 
 ## 🖥️ 시스템 아키텍처

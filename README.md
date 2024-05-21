@@ -7,9 +7,8 @@
 > [플레이 데이터] 한화시스템 BEYOND SW캠프 / BOOT_UP
 
 -->
-
 <div align="center">
-  <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/967d568e-a721-4ede-bf3f-582b36888320"  style="zoom:76%;" align="center"/>
+  <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/125132754/63bb8c42-2a83-42cb-b037-6d42a7d87404"  width="1000px" align="center"/>
 </div>
 
 
@@ -26,73 +25,27 @@
 BOOT_UP 시스템은 한화 시스템 BEYOND SW캠프를 수강하는 학생들만을 위한 커뮤니티 기능을 주 목적으로 삼는다.
 부가적으로 공지사항, 출결 알림, 스터디룸 예약 등의 기능을 통해 과정 간 편의성을 증진시켜준다.
 이를 통해 BOOT_UP 시스템은 실속있는 부트캠프 관리 서비스를 제공한다.
+<br>
+<br>
 
-## 배경
+## 🖼 배경
 
 ![image](https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/a4a9913b-12e5-4b12-afdf-b4300f767453)
 
 자체적인 플랫폼이 부재한 한화시스템 BEYOND SW캠프는 소통의 창구로 디스코드를 사용하고 있다. 위 플랫폼을 통해 공지사항이 전달되고  스터디 모집과 소통이 이루어지고 있다.
 현 플랫폼인 디스코드는 오로지 “해당 기수"만의 소통창구로 이용되고 있다. 이는 전 기수간 혹은 취업준비를 하는 수료자들 간 소통이  불가하다는 점에서 불편함을 야기시킨다. 이에, 원내에서 원활히 사용할 수 있는 소통 및 커뮤니티 플랫폼을 구축하여 BEYOND SW캠프 기수 전체적으로 활동할 수 있는 창구를 마련하고자 한다.
-
+<br>
+<br>
+<br>
 
 ## 📚 기술 스택
-
-
-### Front-end Developing
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=svelte&logoColor=white">
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white">
-
-<br>
-
-### Publishing
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Sass-CC6699?&style=flat&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/p5%20js-ED225D?style=flat&logo=p5dotjs&logoColor=white">
-
-<br>
-
-### UI/UX
-<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=sketch&logoColor=white">
-
-<br>
+### OS
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> 
 
 ### Database
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-<!-- <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"> -->
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
-
+<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"/>
 <br>
-
-### DevOps </b>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
-
 <br>
-
-### Collaboration tool
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat&logo=jirasoftware&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat&logo=atlassian&logoColor=white"/>
-
-<br>
-
-### Design
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white">
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black">
-<img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat&logo=Adobe%20InDesign&logoColor=white">
-
 
 ## 🖥️ 시스템 아키텍처
 
@@ -103,12 +56,16 @@ BOOT_UP 시스템은 한화 시스템 BEYOND SW캠프를 수강하는 학생들�
 K8S 관련 이미지 및 간단 설명
 
 예정
+<br>
+<br>
 
 ## ✨ DR(재난 복구)
 
 ### 재난 복구 계획
 
 본 DRP는 데이터베이스의 고가용성과 무중단 서비스를 제공하기 위한 재난 복구 절차를 설명한다.
+<br>
+<br>
 
 #### 시스템 구성
 
@@ -119,6 +76,8 @@ K8S 관련 이미지 및 간단 설명
 슬레이브가 추가 될 시, 로드 밸런서로서 HAProxy를 활용한다. 쓰기작업은 Master에게, 읽기 작업을 각 Slave에게 분배하여 부하를 분산시킨다.
 - `Keepalived`: 
 다중으로 Master 서버를 구성시켰을 때, 유휴 상태로 인한 종료를 방지하기 위해 사용될 수 있다.
+<br>
+<br>
 
 #### 재난 복구 시나리오
 
@@ -132,8 +91,11 @@ K8S 관련 이미지 및 간단 설명
 - CI : 어떤 과정을 통해 자동으로 테스트 후 결과에 따라 통합 된다는 내용 추가
 - CD : 어떤 과정을 통해자동으로 운영중인 서버에 무중단 배포 된다는 내용 추가
 -->
+<br>
+<br>
 
-## SQL 실행 결과
+
+## 👨‍💻 SQL 실행 결과
 <!--
 ==============Todo==============
 -->
@@ -158,6 +120,8 @@ K8S 관련 이미지 및 간단 설명
 </div>
 
 </details>
+<br>
+<br>
 
 ## 🤼‍♂️팀원
 

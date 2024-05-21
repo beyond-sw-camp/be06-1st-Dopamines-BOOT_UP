@@ -39,23 +39,19 @@ BOOT_UP 시스템은 한화 시스템 BEYOND SW캠프를 수강하는 학생들�
 <br>
 
 ## 📚 기술 스택
-### OS
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> 
+### OS <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"/> 
 
-### Database
-<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"/>
-<br>
+### Database <img src="https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariaDB&logoColor=white"/>
+
 <br>
 
 ## 🖥️ 시스템 아키텍처
 
-<!--
-==============Todo==============
--->
+<div align="center">
+  <img width="500px" alt="스크린샷 2024-05-21 오후 2 19 50" src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/138289674/cccf8db7-2fd3-4439-92cf-b4fd5ba75614">
+</div>
 
-K8S 관련 이미지 및 간단 설명
 
-예정
 <br>
 <br>
 

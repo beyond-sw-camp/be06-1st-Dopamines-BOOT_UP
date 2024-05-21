@@ -7,10 +7,9 @@
 > [플레이 데이터] 한화시스템 BEYOND SW캠프 / BOOT_UP
 
 -->
-
-![bootup](https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/125132754/63bb8c42-2a83-42cb-b037-6d42a7d87404)
-
-
+<div align="center">
+  <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/125132754/63bb8c42-2a83-42cb-b037-6d42a7d87404"  width="1000px" align="center"/>
+</div>
 
 
 <!--

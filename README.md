@@ -38,6 +38,24 @@ BOOT_UP 시스템은 한화 시스템 BEYOND SW캠프를 수강하는 학생들�
 현 플랫폼인 디스코드는 오로지 “해당 기수"만의 소통창구로 이용되고 있다. 이는 전 기수간 혹은 취업준비를 하는 수료자들 간 소통이  불가하다는 점에서 불편함을 야기시킨다. 이에, 원내에서 원활히 사용할 수 있는 소통 및 커뮤니티 플랫폼을 구축하여 BEYOND SW캠프 기수 전체적으로 활동할 수 있는 창구를 마련하고자 한다.
 <br>
 <br>
+## 📚요구사항 정의서 / ERD
+
+<details><summary> <b>요구사항 정의서</b> </summary>
+</br>
+<p>
+  <a href= "https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/wiki/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%EC%A0%95%EC%9D%98%EC%84%9C">요구사항 정의서</a>
+</p>
+</details>
+
+<details><summary> <b>ERD</b> </summary>
+</br>
+<p>
+
+</p>
+</details>
+
+
+
 <br>
 
 ## 📚 기술 스택

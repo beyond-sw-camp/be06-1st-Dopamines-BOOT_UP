@@ -109,27 +109,169 @@
 <!--
 ==============Todo==============
 -->
+
 <details>
 <summary>회원 가입</summary>
 <div>
 <figure align="center"> 
-  <img src="z"/>
-    <p>~~~ 조회</p>
+  <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/9622e6e1-6bf0-4a37-846f-ee75f3cc4338"/>
+    <p>회원가입을 할 때 이메일, 비밀번호 , 이름, 닉네임, 핸드폰번호, 주소, 기수정보를 기입해야 한다.(없으면 없음 선택이 가능하다.)<br> 권한여부, 생성날짜, 소셜 로그인 여부의 정보들을 저장할 수 있다.
+    </p>
  </figure>
 </div>
-
 </details>
 
 <details>
-<summary>로그인</summary>
+<summary>중고 마켓 게시판</summary>
 <div>
 <figure align="center"> 
-  <img src="z"/>
-    <p>~~~ 조회</p>
+  <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/62980463-4f70-4276-b3c5-d74e05804bf6"/>
+    <p> - 제목,내용,이미지,상품 가격이 필수적으로 들어가야 한다. <br>
+    - 판매자가 원하는 상품 정보들을 등록할 수 있다.<br>
+    - 한번 올리면 수정은 불가하다.
+    - 판매자와 1:1 채팅을 할 수 있다.</p>
  </figure>
 </div>
-
 </details>
+
+<details>
+<summary>채팅방 생성</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/d2ffdd03-fe08-4861-a62c-7f86c057d940"/>
+    <p> - 1:1 채팅방이 생성되었을때, 요청 user 와 수신 user 의 정보 저장한다. <br>
+      - 최초 채팅방 생성 날짜와 최종 대화 날짜가 나온다.<br>
+      - 최종 대화 기준 30일이 지나면 비활성화 상태가 된다.</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>채팅방 메세지</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/eb323095-ee43-4948-97b4-a12bce241170"/>
+    <p>채팅방 안의 대화 내역들을 볼 수 있다.<br>
+    대화를 보낸 사람, 보낸 시간, 텍스트 파일 외의 사진,영상 등 파일 형식들을 저장 할 수 있다.</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>스터디 예약 좌석 목록</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/4020f3d0-fc44-4e67-bbc5-735c8c3f643f"/>
+    <p>3~5층 각 층별 좌석 목록들이 저장된다.</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>스터디 예약 정보</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/debba837-6b59-4387-aab2-1f37a34e980a"/>
+    <p>스터디 예약 목록들이 저장된다.<br>
+    신청 회원, 신청 명수, 원하는 스터디 예약 시간 정보가 저장된다.</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>실시간 스터디 예약 정보</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/751dd9d7-376d-40e8-948d-4a9ce56e6951"/>
+    <p>실시간으로 예약되어 있는 스터디 좌석 목록이 저장된다.</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>예비 수강생 게시판</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/151d2aef-4ee1-4a7d-a71c-6df6eabcf1c4"/>
+    <p>회원가입을 했지만, 한화 부트캠프 수강생이 아닌 회원들에 대해서는 해당 예비 수강생 게시판만 이용 가능하다. <br>
+    예비 수강생이 부트캠프를 다니고 있는 수강생들에게 여러 Q&A를 주고 받을 수 있다.</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>게시글 좋아요</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/580c7f28-85fa-40b7-bea8-cd80ab47b2d6"/>
+    <p>유저가 어떤 게시글에 좋아요를 눌렀는지 확인할 수 있다.</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>댓글 작성, 조회</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/cb714207-8415-4c02-a374-661cb4721cd7"/>
+    <p>게시글에 대한 댓글을 저장한다.</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>댓글 좋아요</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/bde06873-8205-46c3-b644-b3d715a4795f"/>
+    <p>댓글에 대해서 좋아요 정보를 저장한다.</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>대댓글 작성, 조회</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/5c3e6ed2-477c-4b88-bba8-a067474537f6"/>
+    <p>대댓글에 대한 정보를 저장한다.<br>
+    단, 하나의 댓글 안에 대댓글의 깊이(depth)는 동일하다.</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>대댓글 좋아요</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/6b1827b0-83b6-4d29-8c96-a96302e3510c"/>
+    <p>대댓글에 대한 좋아요 정보를 저장한다.</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>최종 프로젝트 게시판</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/1e0bba74-9302-402d-a577-81a95c5ee12d"/>
+    <p>최종 프로젝트를 끝내고 수료한 수강생들 프로젝트 정보를 저장한다.<br>
+    시연 영상을 볼 수 있으며, 해당 프로젝트의 깃허브 링크가 추가적으로 기재된다.</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>관리자 정보</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/ed18c468-8b32-41d8-9347-6357f3f43865"/>
+    <p>관리자는 테이블이 따로 명시되어 저장된다.</p>
+ </figure>
+</div>
+</details>
+
+
 <br>
 <br>
 

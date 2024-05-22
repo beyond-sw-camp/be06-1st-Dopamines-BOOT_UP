@@ -48,7 +48,7 @@
 
 <summary> <b>ERD</b> </summary>
   
-![Group 1410086964](https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/138289674/3aed8bb0-94f7-4d36-9092-8a6af2501c9f)
+![be06-대댓글 추가버전](https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/86238720/a2bebea2-48af-4cc0-a6aa-ff17a71ee87b)
 
 
 

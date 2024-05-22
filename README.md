@@ -271,9 +271,27 @@
 </div>
 </details>
 
+<br>
 
-<br>
-<br>
+## 🔍 SQL 튜닝
+
+<details>
+<summary>월 별 게시글 조회</summary>
+<div>
+<figure align="center"> 
+  <br>
+  
+  <b> 1. 인덱스 생성 전 → 전체 데이터(약 7만 개)에서 데이터 조회
+    
+  <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/90b35b18-37d0-4deb-9f5f-dd4ad1c61815"/>
+
+  <b> 2. 인덱스 생성 후 → 약 700개에서 데이터 조회
+
+   <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/08c497c2-f181-4924-9506-b81357ee2afe"/>   
+ </figure>
+</div>
+</details>
+
 
 ## 🤼‍♂️팀원
 

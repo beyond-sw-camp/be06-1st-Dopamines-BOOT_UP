@@ -64,7 +64,7 @@
 ## 🖥️ 시스템 아키텍처
 
 <div align="center">
-  <img width="500px" alt="스크린샷 2024-05-21 오후 2 19 50" src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/138289674/cccf8db7-2fd3-4439-92cf-b4fd5ba75614">
+  <img width="500px" alt="스크린샷 2024-05-21 오후 2 19 50" src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/c50febe8-a54b-4e62-8d0a-327926be524e">
 </div>
 
 
@@ -279,13 +279,15 @@
 <summary>월 별 게시글 조회</summary>
 <div>
 <figure align="center"> 
-  <br>
+  <br><br>
   
   <b> 1. 인덱스 생성 전 → 전체 데이터(약 7만 개)에서 데이터 조회
     
-  <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/90b35b18-37d0-4deb-9f5f-dd4ad1c61815"/>
+  <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/90b35b18-37d0-4deb-9f5f-dd4ad1c61815"/>  
+  
+  <br><br>
 
-  <b> 2. 인덱스 생성 후 → 약 700개에서 데이터 조회
+  <b> 2. 인덱스 생성 후 → 약 700개에서 데이터 조회  
 
    <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/08c497c2-f181-4924-9506-b81357ee2afe"/>   
  </figure>

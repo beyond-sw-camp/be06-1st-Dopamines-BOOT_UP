@@ -294,6 +294,25 @@
 </div>
 </details>
 
+<details>
+<summary>중고마켓 제목 키워드 검색</summary>
+<div>
+<figure align="center"> 
+  <br><br>
+  
+  <b> 1. 인덱스 생성 전 → 전체 데이터에서 키워드 검색 조회 (0.047 sec)
+    
+  <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/390095c8-f86f-4a84-bf50-c65bb23b2f19"/>  
+  
+  <br><br>
+
+  <b> 2. 인덱스 생성 후 → 풀텍스트 인덱스에서 키워드 검색 조회 (0.015 sec)
+
+   <img src="https://github.com/beyond-sw-camp/be06-1st-Dopamines-BOOT_UP/assets/104816530/ad34d9a4-5c6d-411d-8d78-ba517314890e"/>   
+ </figure>
+</div>
+</details>
+
 
 ## 🤼‍♂️팀원
 
